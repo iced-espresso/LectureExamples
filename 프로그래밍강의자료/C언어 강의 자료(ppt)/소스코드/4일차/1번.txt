@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+
+main()
+{
+		int hour, min;
+		scanf_s("%d %d", &hour, &min);
+
+		int temp = min - 30;
+		if (temp >= 0)
+			min = temp;
+		else
+		{
+			hour--;
+			min = 60 + temp;
+		}
+		printf("%d %d", hour, min);
+}

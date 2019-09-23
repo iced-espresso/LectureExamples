@@ -1,0 +1,10 @@
+C:\Users\su\source\repos\RandomSearch\RandomSearch\bin\Debug\RandomSearch.exe.config
+C:\Users\su\source\repos\RandomSearch\RandomSearch\bin\Debug\RandomSearch.exe
+C:\Users\su\source\repos\RandomSearch\RandomSearch\bin\Debug\RandomSearch.pdb
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.csprojAssemblyReference.cache
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Form1.resources
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.Properties.Resources.resources
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.csproj.GenerateResource.cache
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.csproj.CoreCompileInputs.cache
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.exe
+C:\Users\su\source\repos\RandomSearch\RandomSearch\obj\Debug\RandomSearch.pdb

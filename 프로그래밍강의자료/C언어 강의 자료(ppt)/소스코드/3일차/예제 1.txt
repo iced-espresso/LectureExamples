@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+main()
+{
+	int i = 0;
+	while (i < 50)
+	{
+		printf("Hello World\n");
+		i = i + 1;
+	}
+
+
+	printf("\n");
+	system("pause");
+}

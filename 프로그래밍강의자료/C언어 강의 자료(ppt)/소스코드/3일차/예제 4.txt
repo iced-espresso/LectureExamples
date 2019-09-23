@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+main()
+{
+	int count=0;
+	printf("반복 횟수를 입력하세요:");
+	scanf_s("%d", &count);
+
+	int i = 0;
+
+	while (i < count)
+	{
+		printf("Hello World\n");
+		i++;
+	}
+	printf("\n");
+	system("pause");
+}

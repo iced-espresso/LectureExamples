@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+main()
+{
+	
+	int i;
+
+	for (i = 10; i > 0; i--)
+	{
+		printf("%d ", i);
+	}
+
+
+	printf("\n");
+	printf("i의 최종값은: %d", i);
+
+
+	printf("\n");
+	system("pause");
+}

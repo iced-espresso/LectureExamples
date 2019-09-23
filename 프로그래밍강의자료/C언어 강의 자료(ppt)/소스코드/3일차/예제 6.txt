@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+main()
+{
+	int key1;
+	int key2;
+
+	do
+	{
+		printf("두 수가 같지 않으면 반복하는 프로그램.\n:");
+		scanf_s("%d", &key1);
+		printf(":");
+		scanf_s("%d", &key2);
+	} while (key1 != key2);
+
+
+}

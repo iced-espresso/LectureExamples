@@ -1,0 +1,10 @@
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\bin\Debug\printrandomnumber.exe.config
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\bin\Debug\printrandomnumber.exe
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\bin\Debug\printrandomnumber.pdb
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.csprojAssemblyReference.cache
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.Form1.resources
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.Properties.Resources.resources
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.csproj.GenerateResource.cache
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.csproj.CoreCompileInputs.cache
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.exe
+C:\Users\su\source\repos\printrandomnumber\printrandomnumber\obj\Debug\printrandomnumber.pdb

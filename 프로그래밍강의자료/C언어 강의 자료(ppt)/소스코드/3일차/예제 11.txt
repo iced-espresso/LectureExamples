@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+main()
+{
+	while (1)
+	{
+		int bornyear;
+		printf("태어난 해를 입력하세요:");
+		scanf_s("%d", &bornyear);
+		
+		if (bornyear > 2019)
+		{
+			printf("태어난 해가 이상합니다. 다시 시도하세요\n\n");
+			continue;
+		}
+		
+		printf("현재 나이는 %d세입니다.", 2020 - bornyear);
+		printf("\n\n");
+
+		
+	}
+
+	
+	printf("\n");
+	system("pause");
+}

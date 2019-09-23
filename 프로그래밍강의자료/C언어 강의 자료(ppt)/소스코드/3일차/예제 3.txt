@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+main()
+{
+	int pw = 0;
+	
+	while (pw != 13)
+	{
+		printf("패스워드를 입력하세요 ");
+		scanf_s("%d", &pw);
+	}
+
+	printf("로그인 성공.");
+
+
+	printf("\n");
+	system("pause");
+}
